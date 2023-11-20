@@ -5,13 +5,13 @@
 <p align="center"><em>Remote Full-stack developer ready for adventure</em></p>
 
 ## A little about me
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
+- 🔭 I’m currently working on leysco 
+- 🌱 I’m currently learning sap business one
+- 👯 I’m looking to collaborate on laravel prrojects
+- 💬 Ask me about dynamic web sites
 - 📫 How to reach me: robertkimaru1998@gmail.com
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: one of the earliest computer bugs was a real insect.
 <br><br>
 <div align="center">
 <h2>Tech & Tools Preference</h2>
